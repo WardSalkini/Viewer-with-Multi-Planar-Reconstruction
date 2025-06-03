@@ -1,0 +1,5 @@
+numpy==1.24.2
+nibabel==5.1.0
+matplotlib==3.6.3
+PyQt5==5.15.7
+vtk==9.2.6
